@@ -1,0 +1,859 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A sermon preach'd in St. Paul's Cathedral at the annual meeting of the Sons of the Clergy, Tuesday, December vii, 1697 by George Stanhope ... : to which is annexed a faithful account of the charities distributed by that corporation for fourteen years last past.</title>
+            <author>Stanhope, George, 1660-1728.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 21 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61280</idno>
+            <idno type="STC">Wing S5232</idno>
+            <idno type="STC">ESTC R15198</idno>
+            <idno type="EEBO-CITATION">13593475</idno>
+            <idno type="OCLC">ocm 13593475</idno>
+            <idno type="VID">100689</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61280)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100689)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 802:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A sermon preach'd in St. Paul's Cathedral at the annual meeting of the Sons of the Clergy, Tuesday, December vii, 1697 by George Stanhope ... : to which is annexed a faithful account of the charities distributed by that corporation for fourteen years last past.</title>
+                  <author>Stanhope, George, 1660-1728.</author>
+               </titleStmt>
+               <extent>[4], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for H. Bonwick ... and R. Sare ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption and running title: A sermon preach'd before the Sons of the Clergy.</note>
+                  <note>"Publish'd at the request of the stewards."</note>
+                  <note>Reproduction of original in Duke University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible. --  N.T. --  Titus I, 6 --  Sermons.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2012-02</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100689:1"/>
+            <pb facs="tcp:100689:1" rendition="simple:additions"/>
+            <p>A SERMON PREACH'D IN St. <hi>PAUL</hi>'s Cathedral, AT THE ANNUAL MEETING OF THE SONS of the CLERGY, <hi>Tueſday, December</hi> vii. 1697.</p>
+            <p>By <hi>GEORGE STANHOPE,</hi> D. D. Chaplain in Ordinary to His Majeſty.</p>
+            <p>
+               <hi>Publiſh'd at the Requeſt of the Stewards.</hi>
+            </p>
+            <p>To which is annexed, A Faithful Account of the CHARITIES di<g ref="char:EOLhyphen"/>ſtributed by that <hi>Corporation</hi> for Fourteen Years laſt paſt.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>H. Bonwick,</hi> at the <hi>Red-Lion</hi> in St. <hi>Paul</hi>'s Church-yard; and <hi>R. Sare,</hi> at <hi>Gray's-Inn</hi> Gate in <hi>Holborn.</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100689:2"/>
+            <pb facs="tcp:100689:2" rendition="simple:additions"/>
+            <head>TO THE Moſt Reverend Father in God, THOMAS, By Divine Providence Lord Arch Biſhop of <hi>Canterbury,</hi> (Primate and Metropolitan of all <hi>England,</hi> and) Preſident of the Corporation of the Sons of the Clergy.</head>
+            <opener>
+               <salute>May it pleaſe your Grace,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">B</seg>Y condeſcending favourably to accept this Diſcourſe, when publiſhed, to promote the great End for which it was at firſt compos'd: That of exciting Piety and Charity, in a Society particularly happy in your Grace's preſiding over it. A Society bleſs'd with a Succeſſion of Reverend and Religious Prelates; but never more ſignally ſo, than now, that Your Grace hath been pleas'd to take it into your pecu<g ref="char:EOLhyphen"/>liar Care. The Eminent Station You have moſt de<g ref="char:EOLhyphen"/>ſervedly attained in the Church, is our Honour and Privilege: And the Luſtre of ſo bright an Example is both a Pattern to <g ref="char:V">Ʋ</g>s, and a powerful Induce<g ref="char:EOLhyphen"/>ment to All who are diſpoſed to do us Good. The Members of this Body will be exceedingly to blame, if They ſhall neglect to imitate (ſo far as their reſpe<g ref="char:EOLhyphen"/>ctive Capacities permit) the Virtues of their Head; and Others, in whom Mine or better Arguments may
+<pb facs="tcp:100689:3"/> move Compaſſion to the Diſtreſs'd Relicts of the Cler<g ref="char:EOLhyphen"/>gy, will now no longer be able to excuſe themſelves, by the too common Pretence of having their Charity ſtifled or miſ-employ'd.</p>
+            <p>The Account of our Diſtributions for ſeveral Years paſt, is purpoſely annexed to this Sermon, that the World may be convinced, how unjuſtly this Objection is at any time urged againſt <g ref="char:V">Ʋ</g>s; and Your Grace's known Vigilance, and prudent Zeal in Matters of this Nature are an abſolute Security againſt its being ſo much as pretended, while You have the Inſpection of <g ref="char:V">Ʋ</g>s.</p>
+            <p>For this Reaſon, My Lord, when I found my ſelf obliged to commit this Sermon to the World, I pre<g ref="char:EOLhyphen"/>ſumed to endeavour the making it yet more ſerviceable to my Brethren, by begging the Recommendation of Your Grace's Patronage. Though not for this Reaſon only, ſince it gives me at the ſame time an Occaſion of thankfully acknowledging Your Grace's Favour to my ſelf: Which I ſhall always ſtudy to preſerve, and ex<g ref="char:EOLhyphen"/>preſs a due Senſe of, as well by my hearty Prayers, that Your Grace may long continue a Publick Bleſſing to this Church and Nation, as by my conſtant Care to approve my ſelf in all poſſible Inſtances of Duty and Reſpect,</p>
+            <closer>
+               <salute>My Lord,</salute>
+               <signed>Your Grace's moſt Obedient Son and Servant, George Stanhope.</signed>
+               <dateline>
+                  <date>Dec. 13. 1697.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:100689:3"/>
+            <head>A SERMON Preach'd before The Sons of the Clergy.</head>
+            <epigraph>
+               <q>
+                  <bibl>Titus, Chap. I. Ver. 6.</bibl>
+                  <p>
+                     <hi>—Having faithful Children, not accuſed of Riot, or unruly.</hi>
+                  </p>
+               </q>
+            </epigraph>
+            <div type="introduction">
+               <p>THE particular Occaſion of this Epi<g ref="char:EOLhyphen"/>ſtle, and the Capacity of the Perſon to whom it is directed, are clearly contained in the Verſe before my Text. <hi>For this cauſe</hi> (ſays St. <hi>Paul</hi>) <hi>left I thee in Crete, that thou ſhouldeſt ſet in order the things that are wanting, and ordain Elders in every City, as I appointed thee.</hi> A Power (it ſeems) there was even then of giving neceſſary Directions, of reforming Things amiſs, of conſtituting proper Officers to teach and preſide in Spiritual Affairs: A Power, by St. <hi>Paul</hi>'s own Appointment lodged in one Single Perſon, at whoſe Hands the reſt
+<pb n="2" facs="tcp:100689:4"/> ſhould receive their Authority, and to whom, as their Superintendent, they were accountable for the Uſe of it. The Difficulty this Apoſtle was concern'd to provide againſt, relates not to the true Seat, but to the fit Exerciſe of this Power; nor was the Point in queſtion, Who had the Right of Ordain<g ref="char:EOLhyphen"/>ing; but, What Perſons <hi>Titus,</hi> who was confeſs'd to have it, ought to look upon as duly qualified for this holy Function, and moſt important Truſt.</p>
+               <p>Of how great conſequence it is to Religion, that They who miniſter in Holy things ſhould be Men of unblemiſh'd Character, The Reaſon of the Thing, the Power of Example, and the Conſent of all Mankind, abundantly convince us. Thoſe Impious Enemies to God and Goodneſs, who have not yet arrived at the hardned Impudence of flying in the very Face of both, by levelling di<g ref="char:EOLhyphen"/>rectly at the Doctrines themſelves, have always thought their wicked Ends well ſerved, if they could wound them by that oblique Glance, of faſt<g ref="char:EOLhyphen"/>ning any notorious Scandal upon that Order of Men who teach and preſs theſe Doctrines upon others. And ſo again, All zealous and prudent Aſſertors of Piety have found it highly neceſſary, that this ſhould come recommended to the World by the Practice of Them who undertake to propa<g ref="char:EOLhyphen"/>gate and promote it. For Truth and Virtue never ſhine ſo bright, never perſwade ſo ſucceſsfully, ne<g ref="char:EOLhyphen"/>ver attract ſo irreſiſtibly, as when illuſtrated, a<g ref="char:EOLhyphen"/>dorn'd, enforc'd, by the Beauties, the Charms, the even Demonſtrative Evidence of a Holy Converſa<g ref="char:EOLhyphen"/>tion.</p>
+               <pb n="3" facs="tcp:100689:4"/>
+               <p>Hence, I preſume, St. <hi>Paul,</hi> deſigning to give Rules of Behaviour for Chriſtians in general, be<g ref="char:EOLhyphen"/>gins with thoſe, whoſe Actions are of greateſt In<g ref="char:EOLhyphen"/>fluence; and forbids, that any ſhould be a Preach<g ref="char:EOLhyphen"/>er or Governour, who was not likely to be alſo an Ornament and a Pattern to the Church: That ſuch ſhould by their Conduct in a private Capa<g ref="char:EOLhyphen"/>city, ſhew what might be expected from them, when exalted to a Publick. And in regard this Exaltation was for the Benefit of others, a Single and Perſonal Virtue was not eſteemed ſufficient. The Care and Abilities of ſuch a Perſon to in<g ref="char:EOLhyphen"/>ſtruct and overſee the Houſe of God as a Spiritual Father, would beſt be meaſured by the Condition of his own Family at home. And therefore to ſome other Accompliſhments more immediately re<g ref="char:EOLhyphen"/>garding himſelf, enjoin'd in the beginning of this Verſe, this is added here, as no leſs indiſpenſable, that every one admitted to the Charge of a Biſhop, have <hi>Faithful Children, not accuſed of Riot, or un<g ref="char:EOLhyphen"/>ruly.</hi>
+               </p>
+               <p>It cannot ſurely be expected, that I ſhould ſpend any part of your Time, or my own, in proving the Pertinence of a Diſcourſe from theſe Words to the Occaſion of our preſent Meeting. For, Who that thinks at all, can ſuffer himſelf to doubt, whe<g ref="char:EOLhyphen"/>ther the ſame good Principles, which theſe Fathers were oblig'd to infuſe, their Children were not equally oblig'd to cultivate and improve? And if a Diſſolute and Diſorderly Family were a Bar to the Maſter from obtaining Epiſcopal Juriſdiction,
+<pb n="4" facs="tcp:100689:5"/> the Scandal reflected back upon Perſons already advanced to that Dignity, by Poſterity by no means ſuch as this Deſcent requires they ſhould be, muſt needs be granted, not a foul Imputation only, but one of the blackeſt Inſtances of Guilt, which Men can draw upon their Conſciences; as will ap<g ref="char:EOLhyphen"/>pear more fully by and by, when we come to conſider the Particulars I have to ſpeak to from the Text.</p>
+               <p>As little, in the mean while, need I labour to prove, that this whole Aſſembly of our Brethren are concern'd in the Text, notwithſtanding all of us have not the Honour of deriving our Pedigree from the Fathers and Governours of the Chriſtian Church. St. <hi>Paul</hi> himſelf hath remov'd this Ob<g ref="char:EOLhyphen"/>jection, by preſcribing the very ſame Conditions to Deacons, (I. Tim. III. 12.) <hi>Let the Deacons</hi> (ſays he there) <hi>be the Husbands of one Wife, ruling their Children and their own Houſes well.</hi> Now if the ſame Qualifications be requiſite for an Inferior Degree, it muſt needs follow, that that middle Order, which the Neceſſities of the Church intro<g ref="char:EOLhyphen"/>duc'd afterwards, muſt be under the like Engage<g ref="char:EOLhyphen"/>ments, in proportion as the Quality of their Sta<g ref="char:EOLhyphen"/>tion, and the Importance of that Parochial Truſt repos'd in them render ſuch good Examples pro<g ref="char:EOLhyphen"/>fitable.</p>
+               <p>This is ſo plain, ſo acknowledg'd a Truth, ſo well conſider'd, no queſtion, by all in that Capa<g ref="char:EOLhyphen"/>city, that I will not, I ought not to ſuppoſe Care or Exhortation wanting in any of that Reverend
+<pb n="5" facs="tcp:100689:5"/> Part of this Audience, to whom the Words of my Text are more immediately directed: But ſince we all appear this Day under another Character, and are to be addreſs'd to, not as Heads, but Members and Branches of ſuch Families; Permit me, <hi>Fathers and Brethren of our moſt holy Profeſſion,</hi> ſo to order my Diſcourſe upon this Subject, that the Part we all have in the Text, by vertue of that Relation in particular, may be diſtinctly underſtood. So ſhall They (if any ſuch there be among us) who do not attend to this Obligation to Holineſs, be inſtruct<g ref="char:EOLhyphen"/>ed or awakened, by the Arguments I have to of<g ref="char:EOLhyphen"/>fer, and by the yet more powerful Example of that Piety and Prudence in You, which ought to kindle their Zeal, and provoke their moſt diligent Imitation.</p>
+               <list>
+                  <item>I. Now in order hereunto I ſhall, <hi>Firſt of all,</hi> fully and clearly explain the ſeveral Qualificati<g ref="char:EOLhyphen"/>ons preſcribed in my Text for Children of the Clergy.</item>
+                  <item>II. <hi>Secondly,</hi> I ſhall endeavour to enforce Theſe by Motives proper for this Audience eſpecially to be perſuaded by.</item>
+                  <item>III. And then I ſhall in the <hi>Third</hi> and Laſt place, conclude with ſome ſhort Addreſs to ſome parti<g ref="char:EOLhyphen"/>cular ſorts of Perſons, more immediately relating to the Buſineſs of this Day.</item>
+               </list>
+            </div>
+            <div n="1" type="section">
+               <p>I being with the Qualifications themſelves, and They are Three. (1.) <hi>That the Children of the
+<pb n="6" facs="tcp:100689:6"/> Clergy be Faithful.</hi> (2.) <hi>That they be not accuſed of Riot.</hi> And (3.) <hi>That they be not <g ref="char:V">Ʋ</g>nruly.</hi>
+               </p>
+               <div n="1" type="qualification">
+                  <p>I. <hi>Firſt,</hi> It is required that they be <hi>Faithful.</hi> By which is not meant in this place that Moral Virtue commonly diſtinguiſh'd by the Name of <hi>Fidelity</hi> or <hi>Common Honeſty,</hi> but the Knowledge and Senſe of thoſe Principles, which above all others tend moſt to make Men juſt and true; even the Belief and competent Underſtanding of the Chri<g ref="char:EOLhyphen"/>ſtian Religion: For in the early Days of this E<g ref="char:EOLhyphen"/>piſtle, when the Goſpel was but juſt ſetting out into the World, frequent Inſtances were to be found, of neareſt Relations differing in their Per<g ref="char:EOLhyphen"/>ſuaſions. Accordingly many Rules <note n="*" place="margin">I Cor. vii. I Pet. iii.</note> are given in Scripture for the mutual Deportment of Perſons under ſuch divided Circumſtances, that Diverſity of Opinions might not draw on that worſe and more pernicious Conſequence, of Uncharitableneſs, and alienated Affections, and domeſtick Strife. Now in that State of the Church, tho' every pri<g ref="char:EOLhyphen"/>vate Chriſtian was not preſently condemn'd, be<g ref="char:EOLhyphen"/>cauſe he had not brought over the reſt of his Family, yet none was thought fit to be truſted with a publick Charge in the Church, who had not given this Proof of his Ability and Zeal in the Service of the Truth. And hence St. <hi>Paul</hi> pronounces it neceſſary for every Biſhop to have <hi>Faithful Children,</hi> that is, ſuch as were <hi>Believers,</hi> Converted to, or Educated in the Chriſtian Reli<g ref="char:EOLhyphen"/>gion, Entred into Covenant with God by Bap<g ref="char:EOLhyphen"/>tiſm, and ſo of that Number and myſtical Body which are often ſtyled in Scripture-Phraſe<note n="*" place="margin">Epheſ. i. 1. Coloſſ. i. 2.</note>, <hi>The Faithful.</hi>
+                  </p>
+                  <pb n="7" facs="tcp:100689:6"/>
+                  <p>We live not now, 'tis true, in an Age of violent Perſecution, and the ſame profeſt Oppoſition againſt the Goſpel, by <hi>Jewiſh</hi> or by <hi>Pagan</hi> Superſtition: But, which perhaps is worſe and more enſnaring, in the midſt of Hypocriſie and Artifice, of Schiſm and Fa<g ref="char:EOLhyphen"/>ction, of Error manifold, and ſhameleſs Hereſie, and Vice triumphant: Among Men who deny and diſgrace their Profeſſion; Either deforming the Truth by Additions of Man's inventing: Or elſe mangling and maiming it by cutting off God's ex<g ref="char:EOLhyphen"/>preſs Revelations; who interpret and diſtinguiſh all Religion away, till they have brought it down to the Model of their own Notions, and ſubvert the proper Grounds of all Divine Faith. And if This be, as it but too manifeſtly is, our Caſe, you ſee, without any Enlargement of mine, what Care is neceſſary to preſerve thoſe Principles, and that Religion pure, which our Fathers of this E<g ref="char:EOLhyphen"/>ſtabliſh'd Church have inſtill'd into our Minds: A Church, whoſe Diligence and Wiſdom is par<g ref="char:EOLhyphen"/>ticularly viſible, in her familiar, eaſie, and plain Methods of teaching early Piety; and by a ſted<g ref="char:EOLhyphen"/>faſt Adherence to whoſe Doctrines and Diſcipline, we ſhall take the beſt Courſe of <hi>ſaving our ſelves from this untoward Generation.</hi>
+                  </p>
+                  <p>Thus much then is our Duty in point of Faith, with regard to the looſeſt and moſt vulgar Noti<g ref="char:EOLhyphen"/>on of the Thing, as it denotes, A Perſuaſion of the Truth, and is oppoſed to falſe and dangerous Opinions. But if we take it, as we may and ought, for that active Principle, by which all we
+<pb n="8" facs="tcp:100689:7"/> do well is inſpir'd, invigorated, conducted, a great deal more muſt be underſtood requiſite under this firſt Particular: For how common and how fatal an Error do we find it, for Men to receive, and readily acknowledge Doctrines, without attending as they ought to their juſt Force and natural Con<g ref="char:EOLhyphen"/>ſequences? To cry out with thoſe <hi>Jews</hi> of old, <note n="*" place="margin">Jerem. VII.</note> 
+                     <hi>The Temple of the Lord are Theſe,</hi> and value themſelves for Orthodox, while yet their Lives are downright Heathen, and what they abhor to admit in Terms and Form, is without any ſcruple out done in wickedneſs of Actions. Now this In<g ref="char:EOLhyphen"/>conſiſtence of Practice and Profeſſion is what true Faith always provides againſt. It applies it ſelf warmly to the Affections, draws them to a Com<g ref="char:EOLhyphen"/>pliance with the Judgment, makes the Tree put forth Fruits agreeable to the Stock, and ſuffers no Man to allow himſelf in things, which his ſo<g ref="char:EOLhyphen"/>ber and more conſiderate Thoughts cannot but condemn. In ſhort, it makes us Chriſtians in Deed, as well as in Name and in Word; and teaches us, that their Condemnation is and ought to be double, who deprave the Truth with that worſt of Errors, an Ungodly Life. Do not ima<g ref="char:EOLhyphen"/>gine then, my Brethren, that the beſt Scheme of Doctrines, how well ſoever underſtood, or con<g ref="char:EOLhyphen"/>ſtantly maintain'd, will be ſufficient, if they, who hold theſe, differ nothing in Practice, from the Wretches who deny or blaſpheme them. Religi<g ref="char:EOLhyphen"/>on muſt begin in ſound Perſuaſions, but it muſt never end there: For the true Intent of all Re<g ref="char:EOLhyphen"/>ligion is to reform Mens Manners; and in order to this, it begins with inſtructing their Underſtand<g ref="char:EOLhyphen"/>ings,
+<pb n="9" facs="tcp:100689:7"/> and giving them a right Judgment of Things. But better is His Caſe, who out of honeſt unaf<g ref="char:EOLhyphen"/>fected Ignorance, does not his Maſter's Will, than His, who knows, and does, nay, in deſpight of all that Knowledge, perſiſts in doing the Contrary. The Scandal upon theſe Primitive Biſhops had been greater, and the Objection againſt them more juſt, if they had ſuffer'd their <hi>Believing</hi> Children to lead the Lives of <hi>
+                        <g ref="char:V">Ʋ</g>nbelievers.</hi> And therefore the Apoſtle adds Two Qualifications more, no leſs eſſential to his purpoſe than the former; and requires of Them, and in proportion of Us alſo, what I am now pro<g ref="char:EOLhyphen"/>ceeding to explain in the Second place, <hi>viz.</hi>
+                  </p>
+               </div>
+               <div n="2" type="qualification">
+                  <p>2. That they be <hi>not accuſed of Riot.</hi> The Word is of a large Extent, and ſignifies all that Profuſeneſs and Debauchery, which profligate and ſenſual Wretches abandon themſelves to. Vices deform'd and unnatural, ſuch as unman us quite, quench and deſtroy that Light and Noble Principle which ſhould diſtinguiſh us from Brutes. Conſequently, They of all others muſt offer the greateſt Violence to Chriſtianity, which propoſes to refine upon Reaſon, to eſtabliſh the Sovereignty of the Mind more firm, and carry Humane Nature higher, by teaching it to aſpire after Joys Future and Eternal, to abſtract as much as conveniently may be from Fleſh and Senſe, and improve the Rational into a Divine Life. And if theſe Crimes, ſo juſt, ſo foul a Re<g ref="char:EOLhyphen"/>proach to Chriſtians and Men in general, can be render'd in any Caſe yet more monſtrous and abo<g ref="char:EOLhyphen"/>minable, it will be done by that aggravating Cir<g ref="char:EOLhyphen"/>cumſtance, when We of this Society ſhall proſtitute
+<pb n="10" facs="tcp:100689:8"/> our ſelves to Folly and Shame. For certainly, ſuch never more abſolutely forget who they are, never more vilely ſtain their Blood, than when Extrava<g ref="char:EOLhyphen"/>gance and Drunkenneſs, Senſuality and Lewdneſs, and any manner of Impurity or Exceſs, become the Pollutions of that Degenerate Seed of <hi>Aaron,</hi> who ought to <hi>be Holy to the Lord, every one of them.</hi>
+                  </p>
+                  <p>Such is the Guilt of any notorious Inſtances in this kind: But, if I miſtake not the Apoſtle's Meaning, he requires ſomewhat more than the not being Scandalous for ſuch Vices; and by ſaying, we ought not to be <hi>accuſed</hi> of Riot, expects that we ſhould not lie under ſo much as the Cenſure and meer Imputation of it. And this is a Difficulty in<g ref="char:EOLhyphen"/>deed. For I need not ſay, how much the Clergy and their Families ſtand like the common Mark for Cenſure and Detraction; how the Debauch'd and Diſſolute expoſe our very Character, and let fly their Inſolence and Scorn, their Ribaldry and wic<g ref="char:EOLhyphen"/>ked Wit at us, without regard to God, or Truth, or Good Manners. But This is what we may very well deſpiſe. That which ſeems of more melancholy conſideration, is, that ſome who pretend a Reſpect for the Order, and a Zeal for Religion, do yet up<g ref="char:EOLhyphen"/>on difference of Judgment, Perſonal Prejudice, or ſomething yet leſs unaccountable, ſet themſelves with all the Artifice of a ſly ſanctified Malice, to ob<g ref="char:EOLhyphen"/>ſerve our Behaviour, exerciſe a buſie and envious Curioſity, aſperſe our Good, aggravate our Evil, (for we are Men too, and ſubject to Evil with others) and what is of indifferent Temper pervert
+<pb n="11" facs="tcp:100689:8"/> to the worſe Senſe: condemn our moſt innocent Liberties, and debar us thoſe Comforts and Refreſh<g ref="char:EOLhyphen"/>ments which God hath forbidden to none, and our Condition renders as neceſſary to ſome of Us, as any others can pretend they are to Them; and, which is worſt of all, The Faults and Failings of a very few in a very numerous Body, theſe <hi>juſt good Men</hi> charge upon all, and involve the whole Order in their Invectives, without any remorſe or diſtincti<g ref="char:EOLhyphen"/>on. And, Is it poſſible, you'll ſay, for any Man to ſecure himſelf againſt Accuſation, in the midſt of ſuch profeſt Enemies, or treacherous pretended Friends? Perhaps indeed abſolutely to ſecure our ſelves it is not; but thus much we may and are bound to do towards it: To make the beſt uſe of the Difficulties ſuch Men put upon us; <hi>to</hi> 
+                     <note n="*" place="margin">2 Cor. xi. 12.</note> 
+                     <hi>cut off all occaſion from them that deſire occaſion,</hi> and by ſome decent and modeſt Reſerves in our Conduct, to miniſter no Matter for ſuch nice and delicate Judges of our Conſciences to proceed upon. For there are many things, which, though they do not bind us as private Perſons, and conſider'd purely between God and our ſelves, yet as Members of a Chriſtian Society, have a very juſt and ſtrong En<g ref="char:EOLhyphen"/>gagement upon us. The Honour of Religion is greatly concern'd in Matters in their own nature Indifferent; and Innocence it ſelf cannot preſerve the Reputation of the Careleſs and Indiſcreet. When therefore St. <hi>Paul</hi> hath left us both Rule and Ex<g ref="char:EOLhyphen"/>ample, for that material diſtinction of <note n="*" place="margin">1 Cor. x. 23.</note> 
+                     <hi>Things Law<g ref="char:EOLhyphen"/>ful,</hi> and <hi>Things Expedient,</hi> it will become us to tranſcribe it carefully in our Practice, by guarding our Converſation ſo as to give no Offence, to create
+<pb n="12" facs="tcp:100689:9"/> no Jealouſies, but abſtain, if poſſible, from every approach to, and <hi>appearance of evil.</hi> And This I take to be the utmoſt Importance of the Apoſtle's Expreſſion here; that by <note n="*" place="margin">Rom. xii. 17.</note> 
+                     <hi>providing things honeſt in the ſight of all Men,</hi> and doing nothing that miſ<g ref="char:EOLhyphen"/>becomes our Character, ſober and impartial Men may not ſo much as accuſe us at all; and for the Reſt, if They will ſtill be malicious and unreaſonable, that <note n="*" place="margin">1 Pet. iii. 16.</note> 
+                     <hi>They who ſpeak evil of <g ref="char:V">Ʋ</g>s as of Evil-doers,</hi> may find the Shame and Confuſion recoil upon them<g ref="char:EOLhyphen"/>ſelves, <hi>while they falſly accuſe our good Converſation in Christ.</hi>
+                  </p>
+               </div>
+               <div n="3" type="qualification">
+                  <p>3. The other Qualification yet behind is, <hi>Third<g ref="char:EOLhyphen"/>ly,</hi> That the Children of the Clergy ſhould not be <hi>unruly:</hi> 
+                     <gap reason="foreign" resp="#OXF" extent="1 span">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>, not of ſtubborn and un<g ref="char:EOLhyphen"/>governable Diſpoſition, ſuch as no Rule can hold, no Diſcipline can bend. The beating down this Spirit of Petulance and Pride is the Buſineſs of early Correction and Reſtraint; but the keeping it under will require our continual Care, when Ripeneſs of Years and Judgment hath ſet us above the Re<g ref="char:EOLhyphen"/>proofs and the Rod of them who educated us. For, as of private Families the greater Societies are com<g ref="char:EOLhyphen"/>pounded, ſo Domeſtick Vices and Virtues are the Seeds and Pledges of the Civil. Here firſt the Mind is form'd, and by the Impreſſions Men re<g ref="char:EOLhyphen"/>ceive, and the Habits they contract within doors, they grow up to be uſeful and orderly, or turbu<g ref="char:EOLhyphen"/>lent and factious, when they appear upon the Pub<g ref="char:EOLhyphen"/>lick Stage. And if Religion be conſider'd, as in truth it is, the beſt and ſtrongeſt Band of Union and Good Government, it muſt be allow'd, that
+<pb n="13" facs="tcp:100689:9"/> nothing better agrees with our Character, whoſe very Infancy was ſeaſon'd with it, than that Gentle<g ref="char:EOLhyphen"/>neſs and Treatable Temper, which diſpoſes Men to Peace, and Obedience, Submiſſion to Laws, and Deference to Governors, and Superiors of all ſorts. This makes them humble and modeſt, reſpectful and inoffenſive, contains them within their own Sphere, and checks that forward and buſie, that querulous and controlling Spirit, which concerns it ſelf with Matters too high for it. This ſecures Peace in the State, and Conformity in the Church, the Breach whereof is in any of its Members Scan<g ref="char:EOLhyphen"/>dalous and Sinful; but in thoſe of our Education and Parentage, 'tis plainly monſtrous and dete<g ref="char:EOLhyphen"/>ſtable.</p>
+                  <p>If then, (to conclude at length this firſt Head) If in the Days wherein we live, a perfect and ge<g ref="char:EOLhyphen"/>neral Goodneſs be rather to be wiſhed, than with any probable Reaſon to be hoped for, let Us at leaſt be careful that We add as little as may be to the Meaſure of the Common Iniquity. Let He<g ref="char:EOLhyphen"/>reſies and Errours in Religion; Let Luxury and Diſſoluteneſs of Life; Let Schiſm and Sedition, Refrectorineſs and Diſorder be baniſhed from the Tribe of <hi>Levi</hi> however; and Let Their Faith and Manners, even ſpeak their Pedigree, and diſtin<g ref="char:EOLhyphen"/>guiſh them from the common Crowd, as eminent<g ref="char:EOLhyphen"/>ly, as their Function did thoſe venerable Anceſtors, out of whoſe Loins they come. And This, I hope, is now, and always will be ſeriouſly endeavour'd, at leaſt you will confeſs it ought to be ſo, when I ſhall have gone through my Second Head, wherein I propoſed,</p>
+               </div>
+            </div>
+            <div n="2" type="section">
+               <pb n="14" facs="tcp:100689:10"/>
+               <p>II. To enforce the Apoſtle's Directions here by ſome ſuch Motives, as are more eſpecially proper for this Audience to be perſuaded by.</p>
+               <div n="1" type="motive">
+                  <p>1. The <hi>Firſt</hi> of Theſe ſhall be The Advantage of Religion in general, of which, as all ſincere Profeſſors are, ſo the <hi>Sons of the Clergy,</hi> who are ſo much nearer related to it, ſhould in an eſpeci<g ref="char:EOLhyphen"/>al manner be, exceeding jealous and tender. How greatly this is concern'd, how much advanc'd or depreſs'd by Good or Ill Example, hath been al<g ref="char:EOLhyphen"/>ready hinted in the Beginning of this Diſcourſe. And reaſon good there is why it ſhou'd be ſo; For, tho' Example be not properly a Rule of Li<g ref="char:EOLhyphen"/>ving, yet is the Pattern ſet by Others a great Inducement to Virtue or Vice. When therefore Men ſo greedily catch at every thing that may countenance the gratifying their corrupt Inclina<g ref="char:EOLhyphen"/>tions; when they are ſo extremely induſtrious to argue themſelves out of their Duty, and affect to diſtinguiſh their Abilities by framing Cavils againſt the Chriſtian Faith; What Zeal ſhou'd this excite in Us to oppoſe that Torrent of Irreligion? what Care to convince the World, that what we pro<g ref="char:EOLhyphen"/>feſs is no formal Pretence, no Stratagem to en<g ref="char:EOLhyphen"/>ſlave Mankind, contriv'd or carry'd on by our deſigning Forefathers; but ſuch as we are ſerious in, and well content to regulate all our Actions by: That what in impious Scorn they call our <hi>Trade,</hi> was not taken up merely to get a Livelihood, and, when We and our Families had ſerv'd them<g ref="char:EOLhyphen"/>ſelves of it, then, like other Callings, to be laid
+<pb n="15" facs="tcp:100689:10"/> aſide; but that, as our Pious Progenitors dedica<g ref="char:EOLhyphen"/>ted their Lives and Labours to God, by the Directi<g ref="char:EOLhyphen"/>on of his own Bleſſed Spirit, and chiefly in proſpect of that glorious Recompence, which many of them now enjoy in Heaven; ſo We, in a juſt and con<g ref="char:EOLhyphen"/>ſtant Senſe of thoſe Impreſſions they have left up<g ref="char:EOLhyphen"/>on us, eſteem nothing ſo much our Concern, as the Continuance and Promotion of that Purity of Faith and Manners, by which the Goſpel of Chriſt is vindicated and adorn'd. Nor need we ſuſpect, that our Piety will prove ineffectual to theſe purpoſes; for neither is Mankind ſo bad, ſo loſt; nor Our Number and Condition ſo inconſiderable, but that the Exemplary Virtue even of this So<g ref="char:EOLhyphen"/>ciety, may bring great Reputation to the Truth. And many, I doubt not, <hi>wou'd glorifie our Father in Heaven,</hi> moved by the Brightneſs of <hi>that Light, ſhi<g ref="char:EOLhyphen"/>ning before Men,</hi> which the Orthodox Principles, and Good Works of ſuch a Holy Progeny might plentifully ſhed abroad in the World.</p>
+                  <p>And now I am upon this Topick of the Credit of Religion, ſuffer me, I beſeech you, to recom<g ref="char:EOLhyphen"/>mend the Aſſerting that of the Proteſtant Cauſe, and our own National Church in particular. Let our Adverſaries of <hi>Rome</hi> anſwer, if they can, the Tyranny they uſurp over Conſciences, in forbid<g ref="char:EOLhyphen"/>ding that to Some Orders of Men, which Chriſt hath left free to All. The Conſequences of that impoſed Celibacy have been too filthy to be mention'd, and too notorious to be deny'd. But let not Us furniſh them with a more popular Argument than any they have yet produc'd in this Point, by mi<g ref="char:EOLhyphen"/>niſtring
+<pb n="16" facs="tcp:100689:11"/> juſt ground of Reproach upon our mar<g ref="char:EOLhyphen"/>ry'd Clergy, from the ſcandalous Lives of their Poſterity. I do not deny, but there may be con<g ref="char:EOLhyphen"/>ſiderable Advantage in the ſingle Life of Prieſts; But what our Saviour ſays, in a Caſe not very different, is certainly moſt applicable to This, <note place="margin">Mat. xix. 12.</note> 
+                     <hi>He that can,</hi> and is diſpoſed, <hi>to receive it, let him re<g ref="char:EOLhyphen"/>ceive it:</hi> that is, It ought to be left free, a matter of Choice and Convenience, and not made a matter of Duty and Neceſſity. And it will lie, I think, in Our power to ſhow, that infinite Good may come from our Deliverance out of this unreaſona<g ref="char:EOLhyphen"/>ble Bondage. For ſure All who conſider Religi<g ref="char:EOLhyphen"/>on, and wherein the Promotion of it truly con<g ref="char:EOLhyphen"/>ſiſts, cannot but allow, that it is better ſerv'd by educating a Race of Men pious and devout, ſober and temperate, and exemplary in their Lives, ho<g ref="char:EOLhyphen"/>neſt and induſtrious in their Callings, conſcientious and uſeful in their ſeveral Relations and Capaci<g ref="char:EOLhyphen"/>ties, (All which, humanely ſpeaking, is a more probable Effect of a marry'd Clergy, than can be expected from any other Condition of Men) Re<g ref="char:EOLhyphen"/>ligion, I ſay, gets more by this, than by any Ad<g ref="char:EOLhyphen"/>dition of Gifts and Revenues, with which the Clergy having no Families of their own to provide for, can ever pretend to enrich the Church.</p>
+               </div>
+               <div n="2" type="motive">
+                  <p>2. A <hi>Second</hi> Inducement to the Virtues preſcri<g ref="char:EOLhyphen"/>bed in my Text, is a pious and due Regard to the Reputation of Our Parents: For it is not poſſible in this Caſe, that the Guilty ſhould ſuffer alone; and the Apoſtle, by ordering that Chil<g ref="char:EOLhyphen"/>dren's
+<pb n="17" facs="tcp:100689:11"/> Faults ſhou'd obſtruct the Father's Advance<g ref="char:EOLhyphen"/>ment in the Church, plainly implies, that a great part of this Scandal muſt in reaſon devolve upon Him. <hi>Solomon</hi>'s Maxim, <note n="*" place="margin">Prov. xxii. 6.</note> 
+                     <hi>Train up a Child in the way he ſhould go, and when he is old, he will not de<g ref="char:EOLhyphen"/>part from it,</hi> no doubt is true in ordinary Caſes. The firſt Impreſſions upon tender Minds enter ſo deep, that few ever out-grow them; but the Su<g ref="char:EOLhyphen"/>perſtructure of a whole Life is uſually of a Piece with the Foundations laid at the beginning. If then the Sons of Clergy-men ſhall turn aſide to falſe and dangerous Doctrines, or grow careleſs of all Religion; If They ſhall let themſelves looſe to Vanity and Vice; If They ſhall be diſobedient to Laws, diſloyal to their Prince, or ſchiſmatical in the Church, the natural Interpretation of ſuch E<g ref="char:EOLhyphen"/>normities will be, that due Care was not taken in ſeaſoning them with good Principles betimes; that their Parents either wanted Ability to ſettle them in the Truth, or Affection and Authority to engage them in the early Practice and Love of Goodneſs, or by their own Example encourag'd theſe Impieties. Nor muſt we blame the World ſo much as our ſelves, for even ſuch wrongful A<g ref="char:EOLhyphen"/>ſperſions caſt upon the Memory of our Anceſtors. For Men in their Judgments proceed upon the general Courſe of Cauſes and Effects, and that which is untrue, may not always be unreaſonable. It is our Duty therefore to obviate the very Su<g ref="char:EOLhyphen"/>ſpicions of this kind, not to expoſe our Reverend Forefathers ſo much as to Cenſure or Queſtion, nor load them with a Blame which is not Theirs. For there are many Inſtances of this Injuſtice, many
+<pb n="18" facs="tcp:100689:12"/> Exceptions to the general Rule, many Diſpoſiti<g ref="char:EOLhyphen"/>ons ſo intractable, that the moſt exquiſite Pains are loſt upon them, many ſo careleſs or ſo eaſily ſeduc'd, as either not to retain, or not to regard the beſt Inſtruction and moſt prudent Diſcipline. And this I ought, in ſomewhat more than mere Charity, to preſume the Caſe of Thoſe, who miſ<g ref="char:EOLhyphen"/>carry, after living under the Education and Ex<g ref="char:EOLhyphen"/>ample of Parents, conſecrated to the more imme<g ref="char:EOLhyphen"/>diate Service of Almighty God. Suppoſing then ſuch graceleſs Children to bear but cold, if any Regard to the Honour of Religion, the Church of which they are Members, or the Families whence they ſprung, I muſt try if one other Conſideration ſtill in reſerve, which comes up cloſer to them than the former, will quicken them up to their Duty, and that is,</p>
+               </div>
+               <div n="3" type="motive">
+                  <p>3. <hi>Thirdly,</hi> The Sinſulneſs and Danger of a vicious Life, and the very grievous Aggravation of Their Guilt in this reſpect above that of com<g ref="char:EOLhyphen"/>mon Men. Conſidering the Difficulties of Virtue, the Number and Strength of Temptations with which every Condition of Life is cloſely beſet, and the mighty, the fatal Byaſs of Humane Na<g ref="char:EOLhyphen"/>ture towards Fleſh and Senſe, it cannot ſeem ſtrange, that they who enter the Liſts naked and unarm'd, ſhou'd become a cheap and eaſie Prey to their Spiritual Enemies. Theſe Men, without any early Principles of Virtue, commit themſelves to the World, like a Veſſel turn'd adrift without Rudder or Ballaſt, and nothing but a Miracle can preſerve them from being <hi>carry'd about with every
+<pb n="19" facs="tcp:100689:12"/> Wind of Doctrine,</hi> born down by the impetuous Tides of Luſt and Paſſion, and ſplitting upon the Rocks of Error, or Luxury, or Faction. But when Men ſet out warn'd and well-fortify'd, right<g ref="char:EOLhyphen"/>ly inſtructed what Courſe to take, where their Danger lies, and how great it is, nothing leſs than wretched Neglect, or wretched Perverſeneſs can make Shipwrack of ſuch Perſon's Faith and good Conſcience. For though, in the preſent deprav'd State of Nature, the Balance do not hang directly even, yet when our Propenſity to Evil hath the Counterpoiſe of Religious Education, the Advan<g ref="char:EOLhyphen"/>tage thenceforward enclines to the ſide of Virtue. In ſuch Caſes, The Value of an Immortal Soul, The Awe of a juſt and jealous God, One who ſees all our Actions, and will bring every Secret thing into Judgment; The Reaſonableneſs and real Sa<g ref="char:EOLhyphen"/>tisfaction, The preſent and the future Advantages of a Holy Life; and the Eaſineſs of continuing what from our Infancy and the very firſt Uſe of our Faculties we have been all along accuſtom'd to, are Preſervatives of infinite Efficacy and Con<g ref="char:EOLhyphen"/>ſequence. Vice as well as Virtue is confirm'd by degrees; and Habits of any kind cannot be con<g ref="char:EOLhyphen"/>tracted without much Time, and repeated Pra<g ref="char:EOLhyphen"/>ctice. A Man ſo tinctur'd before hand muſt take great pains to be wicked; and offer mighty vio<g ref="char:EOLhyphen"/>lence to his Reaſon, before he can unlearn and unthink theſe things again. Imagine then what Condemnation We muſt draw upon our Selves, by revolting from God after ſuch Privileges, for want of which the greater part of Sinners are un<g ref="char:EOLhyphen"/>done. For God will judge the World, not only
+<pb n="20" facs="tcp:100689:13"/> according to Mens Actions, but according to the Advantages and Opportunities each Man had or wanted, of doing well or otherwiſe. And how happy a Difference hath his Providence put in this reſpect, between Us and many Others? They, many times, are utter Strangers to God and the Truth, but We have been bred up in a long and intimate Acquaintance with both: They have fre<g ref="char:EOLhyphen"/>quently the firſt Impreſſions ſtill to make, We are only concern'd to ſee that Ours do not wear out: They have the difficulties of beginning late, muſt bend Nature and Cuſtom the contrary way, and ſtrain hard againſt the Hill; We have already gain'd the Riſing-Ground, need only to proceed ſmoothly, and do as We and our Fathers before us have ever uſed to do. And if after all this, We ſtart aſide, or turn back again, We are of all Mortals ſure the moſt abandon'd, and muſt expect to be the moſt miſerable. Beware therefore, my Brethren, leſt that Reproach of our Saviour, in a Circumſtance ſo like This that it needs no Appli<g ref="char:EOLhyphen"/>cation, be one day the Language of God and your own Conſciences, againſt any of You, <note n="*" place="margin">Mat. xi. 21, 22.</note> 
+                     <hi>Wo unto thee Chorazin, Wo unto thee Bethſaida; for if the mighty Works which have been done in You, had been done in Tyre and Sidon, They wou'd have re<g ref="char:EOLhyphen"/>pented long ago in Sackcloth and Aſhes: But I ſay unto you, It ſhall be more tolerable For Tyre and Sidon at the Day of Judgment, than for You.</hi>
+                  </p>
+                  <p>This is indeed the Condemnation of all Deſert<g ref="char:EOLhyphen"/>ers from Virtue and Religion, but to Us there is One Aggravation more, peculiar to Our Selves.
+<pb n="21" facs="tcp:100689:13"/> For We are not only brought up at the Altar, but ſuſtain'd by it. As therefore the Subſtance we expend upon Pious and Charitable Uſes, is re<g ref="char:EOLhyphen"/>ſtoring to God his own, in ſome reſpects more his own, than the Wealth of common Men: So the Miſemployment of our Poſſeſſions, our Parts, our Attainments, to the Diſhonour of Religion, is not a ſimple Abuſe, but the moſt perfidious Sa<g ref="char:EOLhyphen"/>crilege. I am not, nor is the World, inſenſible, how few of Our Fraternity have large Inheritances derived from the Church's Revenues to anſwer for. The Scarcity of theſe Inſtances is but too vi<g ref="char:EOLhyphen"/>ſible, and We are met this Day to ſupply in ſome meaſure, the ſad and preſſing Neceſſities of many who feel and ſmart under the Calamity of a deſti<g ref="char:EOLhyphen"/>tute Widowhood, and friendleſs Orphanage. But ſtill my Argument is good for all thoſe Advanta<g ref="char:EOLhyphen"/>ges of Education, and the Opportunities of raiſing our own Fortunes, which Our Parents uſually ſtrain harder to give Us, than any other Men of equal Subſtance. The attending wholly to the Work of the Miniſtry; the Hoſpitality and Cha<g ref="char:EOLhyphen"/>rity expected and exerciſed in Preferments of bet<g ref="char:EOLhyphen"/>ter Condition; and the too penurious Proviſion in moſt, will not leave much even for theſe pur<g ref="char:EOLhyphen"/>poſes. But be it much or little, ſtill 'twas devoted to the Service of God before, and as ſuch receiv'd by our Anceſtors. And if this Society be, as I ſtedfaſtly believe it is, one of the ſignalleſt Exam<g ref="char:EOLhyphen"/>ples in the World, of a particularly indulgent Providence; if ſuch a Number of Men of any Race be no where to be found, of whom ſo ma<g ref="char:EOLhyphen"/>ny live in Honour, and Eminence, and Wealth;
+<pb n="22" facs="tcp:100689:14"/> or at leaſt in Credit and Comfort, in ſo many ſe<g ref="char:EOLhyphen"/>veral Profeſſions, from ſo very ſmall Beginnings; theſe unuſual Improvements, by the Bleſſing of God upon ſuch Mens own Induſtry, is an En<g ref="char:EOLhyphen"/>gagement equal to any other, for ſuch Lives as may ſhew forth his Glory. And this ought to ren<g ref="char:EOLhyphen"/>der Our Virtue as much above the ordinary Stan<g ref="char:EOLhyphen"/>dard, as that Divine Favour and Bounty is, which ſo amply makes Good to the Chriſtian, what was ſpoke heretofore of the Jewiſh <hi>Levi,</hi> that <hi>the Lord would be his Portion.</hi> And if it be not our Care, to proportion our Piety to our Bleſſings and Sup<g ref="char:EOLhyphen"/>ports, the Account will be but the more inflamed at the laſt day; and the Pious Donations and En<g ref="char:EOLhyphen"/>dowments deſign'd for the temporal Advantage of our Families, will then become an Article againſt them to increaſe their Eternal Miſery.</p>
+               </div>
+            </div>
+            <div n="3" type="section">
+               <p>III. Suffer me but a little longer, while in the Third and Laſt place I addreſs my ſelf particularly to ſome of This our Body, and the more immedi<g ref="char:EOLhyphen"/>ate Buſineſs of the Day. Which I ſhall do with all poſſible Brevity, and ſo conclude.</p>
+               <div n="1" type="conclusion">
+                  <p>1. And, <hi>Firſt,</hi> To You the Worthy Stewards, and All who ſhall at any time aſſiſt in the Charita<g ref="char:EOLhyphen"/>ble Office of diſpoſing our Orphans and poor Chil<g ref="char:EOLhyphen"/>dren to particular Callings in the World. You have heard what ſort of Perſons all Children of the Clergy ought to be; and this I hope will prevail with You ſo to place and ſettle them, as may never hazard the corrupting their good Beginnings; much leſs the poyſoning their Minds with wicked Princi<g ref="char:EOLhyphen"/>ples,
+<pb n="23" facs="tcp:100689:14"/> or engaging them in vicious Practices. In order hereunto, the Choice of Maſters is of mighty conſequence, Men who make a Conſcience of or<g ref="char:EOLhyphen"/>dering and inſtructing their Families, as becomes Chriſtians. For if you commit theſe tender Plants to Men of Heretical or Erroneous Opinions, of careleſs or lewd Lives, of a Factious, Schiſmatical, and ungovernable Spirit; what can you expect, but that they ſhould degenerate into the Vices of the Soil, and follow that Example which is back'd with Authority, till they become the direct contrary to that Deſcription given in my Text?</p>
+                  <p>Again. As to the Callings themſelves, I take the freedom to put you in mind, of the Indecency, the Abſurdity, the Danger of obliging ſuch Children to the Practice of thoſe, whoſe Gains and Buſineſs lie in the Vanities or the Vices of Mankind. If none of this Progeny ought to be ſo much as <hi>ac<g ref="char:EOLhyphen"/>cuſed of Riot,</hi> 'tis too hard a Temptation to make Riot their very Support. A meaner or more La<g ref="char:EOLhyphen"/>borious Calling, which miniſters to the Neceſſities of Living, and is of general uſe to Mankind, would much better employ their honeſt though leſs gainful Induſtry; and more become Your Pru<g ref="char:EOLhyphen"/>dence, and Their Birth. Remember You are the Guardians not of their Fortunes only, but their Virtue; and Perſons of Your Extract and Educa<g ref="char:EOLhyphen"/>tion need not be told, that the ſecuring That is the trueſt Charity, and that there can be no Charity without it. Give me leave therefore to exhort the fixing in your Minds upon theſe Occaſions, that Ad<g ref="char:EOLhyphen"/>monition of our Saviour, <note n="*" place="margin">Mat. xvi. 26.</note> 
+                     <hi>What ſhall it proſit a
+<pb n="24" facs="tcp:100689:15"/> Man, if he ſhall gain the whole World, and loſe his own Soul? or what ſhall a Man give in exchange for his Soul?</hi>
+                  </p>
+               </div>
+               <div n="2" type="conclusion">
+                  <p>2. Next, I beſeech my Brethren of the Laity to conſider, not only their own Perſonal Obligations to be ſuch as my Text directs, but the Duty of continuing the ſame Virtues down to ſucceeding Generations. For if the Men of Titles and world<g ref="char:EOLhyphen"/>ly Pomp value themſelves upon the Atchievements or Promotion of Noble Anceſtors, and are ambi<g ref="char:EOLhyphen"/>tious to tread in Their Steps; Why ſhould not even the diſtant Poſterity of Men who have mini<g ref="char:EOLhyphen"/>ſtred to, and were highly belov'd of the King of Kings, retain an Equal Eſteem for the Memory, an Equal Concern for the Imitation, of their Learned and Pious Progenitors? Think not then the Virtues I have been enforcing to Us of the firſt De<g ref="char:EOLhyphen"/>ſcent, to be the Engagements of one ſingle Age; but be jealous for the laſting Honour of Your Fa<g ref="char:EOLhyphen"/>milies too, provided this be with a holy Jealouſie; and let it be remembred always, that the Particular Honour of Our Race is Religion: This ought to be look'd upon as Our diſtinguiſhing, Our heredi<g ref="char:EOLhyphen"/>tary Character; and, like the Enſigns of other Ho<g ref="char:EOLhyphen"/>nour, to be deliver'd down to all Succeſſions. A Character, not depending upon Favour or Fortune to be maintain'd, but always ennobled by eminent Goodneſs in any Condition, and never debas'd, but by the vile degeneracy of wicked Principles, and wicked Practices.</p>
+               </div>
+               <div n="3" type="conclusion">
+                  <pb n="25" facs="tcp:100689:15"/>
+                  <p>3. Laſtly. To Thoſe, whoſe better Circumſtances are capable of extending Relief to our Brethren in Affliction, I muſt beg leave to recommend, nay even to conjure them to a Bounteous Liberality. A Liberality ſuitable to the Diſtreſſes of them that want, and the Engagements of them from whom I ask it. Theſe Engagements riſe ſeveral ways; from the Conſideration of Humane Nature in ge<g ref="char:EOLhyphen"/>neral; from our being of the Houſhold of Faith, and fellow-feeling Members of Chriſt's Myſtical Body; from that yet nearer Spiritual Kindred, con<g ref="char:EOLhyphen"/>tracted by our mutual Relation to the Prieſthood in particular; from the Neceſſities to be ſupplied, ſo great as juſtly to reproach our unnatural hard<g ref="char:EOLhyphen"/>heartedneſs, ſo innocent and unavoidable, as not to be charg'd upon Vanity and Vice, but purely the Work of Providence upon the needy Suffer<g ref="char:EOLhyphen"/>ers; from the Wiſdom and Goodneſs of that Pro<g ref="char:EOLhyphen"/>vidence, which by putting ſuch a Difference be<g ref="char:EOLhyphen"/>tween the Fortunes of Men of like Deſcent, hath by the Adverſity of ſome furniſh'd more abundant Occaſion for exerciſing the Virtue of others; from the Reaſonableneſs of thanking God for his Bleſ<g ref="char:EOLhyphen"/>ſings, by enlarging our Bowels, and opening Our Hands wider, where His hath dealt them more ſparingly. But Theſe, and whatever other Mo<g ref="char:EOLhyphen"/>tives elſe, (and many Motives more there are) pro<g ref="char:EOLhyphen"/>per to excite our Charity, have been ſo often, ſo juſtly, ſo piouſly, ſo ſucceſsfully repreſented upon this occaſion heretofore, that I dare not ſo much as ſuppoſe it needful now to inſiſt upon them. And indeed this very Appearance proves it not to be needful; for All You who come hither know,
+<pb n="26" facs="tcp:100689:16"/> that Our Solemnities are not deſign'd for Luxury, or Pomp, but purely to maintain a holy Friend<g ref="char:EOLhyphen"/>ſhip, to promote Good Works, to ſuccour thoſe whom Want and Shame will not ſuffer to come, and to attain that Greater Bleſſedneſs of Giving than Receiving. All therefore that I urge at preſent is, that a Juſt Proportion may be obſerv'd in our Giving, and that ſome particular Circumſtances may be conſider'd, which at this time ſeem to require a more than common Compaſſion. The expenſive Burden of a Long War, in which the Clergy and their Families have had a particular Share, calls for larger Supplies. The Bleſſing of Peace, in which the Safety of our Church and Religion is eſpecially concern'd, makes it reaſonable to expreſs our Thanks, by the abundant meaſure of thoſe Sacri<g ref="char:EOLhyphen"/>fices with which God is well pleas'd. Nay, I can<g ref="char:EOLhyphen"/>not forbear to add, that the very Place where we are now aſſembled is an additional Argument to the ſame purpoſe. For what true Son of this eſta<g ref="char:EOLhyphen"/>bliſh'd Church can without a ſenſible Joy ſee the Beauty of this Cathedral, and the Decencies of its Worſhip reſtor'd, after ſo many Years being bu<g ref="char:EOLhyphen"/>ried in Ruines? And how can that Joy better ex<g ref="char:EOLhyphen"/>ert it ſelf, than by contributing cheerfully to the Support of thoſe living Temples of the Holy Ghoſt, for whom I ſtand here an Advocate? Thus ſhall we incline God to continue, to multiply, to ſan<g ref="char:EOLhyphen"/>ctifie his Mercies to our Religion and Nation, to our Perſons and Poſterity, when every Benefit we receive is made a freſh Incentive of our Zeal for promoting his Honour, and the Good of our Brethren.</p>
+                  <pb n="27" facs="tcp:100689:16"/>
+                  <p>And may this be the conſtant mutual Effect of all God's Loving Kindneſs, and all our Gratitude for it; that his Bleſſings may produce becoming Improvements in Holineſs, and increaſe of Good Works, and thoſe Improvements may enſure a perpe<g ref="char:EOLhyphen"/>tual Succeſſion of more and greater Bleſſings. Par<g ref="char:EOLhyphen"/>ticularly, May this pure Eſtabliſh'd Church ſo often mark'd out for a Sacrifice, for ever ſtand and flou<g ref="char:EOLhyphen"/>riſh, the Impregnable Bulwark of the Reformed Religion, and the Joy and Praiſe of the whole Earth: May there never want an able, orthodox, and pious Clergy, to defend her Doctrines with their Learning, and adorn them with their Lives: and may there ever flow from Them a Holy and Righteous Poſterity, ſound and ſtedfaſt in the Faith, unblamable in their Converſations, orderly and uſeful in their reſpective Capacities, zealous and rich in Good Works; In whoſe Actions their Fathers inſtructions and Examples may live and ſhine, and force even a crooked and perverſe Ge<g ref="char:EOLhyphen"/>neration to confeſs, that God is in them of a Truth. And This is what not We only of This So<g ref="char:EOLhyphen"/>ciety are more immediately concern'd to pray and to endeavour alway; but a Petition of general Importance to Religion, to which All Ours who love the Lord Jeſus Chriſt in Sincerity and Truth, will ſay, <hi>Amen.</hi>
+                  </p>
+               </div>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="account">
+            <pb n="28" facs="tcp:100689:17"/>
+            <argument>
+               <p>THE Deſign of the Governors, in pub<g ref="char:EOLhyphen"/>liſhing this Accompt, is to let the ſe<g ref="char:EOLhyphen"/>veral Benefactors and others ſee how well the Charity contributed to the Relief of the Poor Clergy-mens Fa<g ref="char:EOLhyphen"/>milies, has been beſtow'd by this Corporation.</p>
+            </argument>
+            <head>A True Accompt of the Sums of Money diſtributed by the Governours of the Charity for the Relief of Poor Widows and Children of Clergy-men, for Fourteen Years laſt paſt. Dated <hi>November</hi> 11. 1697.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell role="label">
+                        <hi>Anno Dom.</hi> 1684.</cell>
+                     <cell role="label">
+                        <hi>l.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>s.</hi>
+                     </cell>
+                     <cell role="label">
+                        <hi>d.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Twenty eight ſe<g ref="char:EOLhyphen"/>queſter'd Clergy-men</cell>
+                     <cell>084</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Sixty eight other Clergy-mens Widows</cell>
+                     <cell>101</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>For Binding Children Apprentices</cell>
+                     <cell>100</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>285</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1685.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Thirty four ſe<g ref="char:EOLhyphen"/>queſter'd Clergy-men</cell>
+                     <cell>099</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Ninety eight other Clergy-mens Widows</cell>
+                     <cell>129</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>228</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <pb n="29" facs="tcp:100689:17"/>
+               <table>
+                  <row>
+                     <cell role="label">1686.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty five ſeque<g ref="char:EOLhyphen"/>ſter'd Clergy-men</cell>
+                     <cell>135</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To One hundred and twelve other Clergy-mens Widows</cell>
+                     <cell>179</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy men</cell>
+                     <cell>020</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>334</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1687.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty eight ſe<g ref="char:EOLhyphen"/>queſter'd Clergy-men</cell>
+                     <cell>144</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To One hundred thirty three other Clergy-mens Widows</cell>
+                     <cell>170</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children ofDeceas'd Clergy men</cell>
+                     <cell>029</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>344</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1688.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty nine ſeque<g ref="char:EOLhyphen"/>ſter'd Clergy-men</cell>
+                     <cell>147</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To One hundred fifty ſeven other Clergy-mens Widows</cell>
+                     <cell>206</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>045</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>398</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1689.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty ſix ſeque<g ref="char:EOLhyphen"/>ſter'd Clergy-men</cell>
+                     <cell>138</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To One hundred ſixty three other Clergy-mens Widows</cell>
+                     <cell>257</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>043</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>438</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <pb n="30" facs="tcp:100689:18"/>
+               <table>
+                  <row>
+                     <cell role="label">1690.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty five ſe<g ref="char:EOLhyphen"/>queſter'd Clergy-men</cell>
+                     <cell>135</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To One hundred ſixty and ſix other Clergy-mens Widows</cell>
+                     <cell>258</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>057</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>450</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1691.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty ſeven ſe<g ref="char:EOLhyphen"/>queſter'd Clergy-men</cell>
+                     <cell>141</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To One hundred and ninety other Clergy-mens Widows</cell>
+                     <cell>296</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>074</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>512</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1692.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty four ſe<g ref="char:EOLhyphen"/>queſter'd Clergy-men</cell>
+                     <cell>132</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To One hundred ſeventy four other Clergy-mens Widows</cell>
+                     <cell>289</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>064</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>486</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1693.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty ſequeſter'd Clergy-men</cell>
+                     <cell>120</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Two hundred and one other Clergy-mens Widows</cell>
+                     <cell>339</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy men</cell>
+                     <cell>052</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>511</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <pb n="31" facs="tcp:100689:18"/>
+               <table>
+                  <row>
+                     <cell role="label">1694.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty ſequeſter'd Clergy-men</cell>
+                     <cell>120</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Two hundred forty one other Clergy-mens Widows</cell>
+                     <cell>414</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>055</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>589</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1695.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Forty one ſeque<g ref="char:EOLhyphen"/>ſter'd Clergy-men</cell>
+                     <cell>123</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Two hundred ſixty three other Cergy-mens Widows</cell>
+                     <cell>438</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>055</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>616</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1696.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Thirty nine ſe<g ref="char:EOLhyphen"/>queſter'd Clergy-men</cell>
+                     <cell>117</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Two hundred ſeventy four other Clergy-mens Widows</cell>
+                     <cell>465</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>061</cell>
+                     <cell>10</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>644</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+               <table>
+                  <row>
+                     <cell role="label">1697.</cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                     <cell role="label"> </cell>
+                  </row>
+                  <row>
+                     <cell>To the Widows of Thirty ſequeſter'd Clergy-men</cell>
+                     <cell>090</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Two hundred forty eight other Clergy-mens Widows</cell>
+                     <cell>425</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell>To Children of Deceas'd Clergy-men</cell>
+                     <cell>068</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>583</cell>
+                     <cell>00</cell>
+                     <cell>00</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="32" facs="tcp:100689:19"/>
+            <p>
+               <hi>Note,</hi> That there were many Petitions preſented to the Court of Aſſiſtants, this Year, from Widows and Orphans of Clergy-men, whom our Stock was not ſufficient to relieve.</p>
+            <p>
+               <hi>Note,</hi> That for Fourteen Years laſt paſt, the Stewards of the Annual Feaſt have bound out Children Appentices every Year, with the Money collected on the ſeveral Feaſt-days, which is not here reckon'd.</p>
+            <p>We alſo think fit to repreſent the Condition of our poor Widows and Orphans (whoſe Number increaſes daily) to the Compaſſion and Bounty of other well-diſpoſed Perſons that have not yet been Benefactors.</p>
+            <p>We hope and deſire, that it may have this effect eſpecially on ſuch of the Governors as have not yet Contributed, and other our Worthy Friends, as well of the Laity as the Clergy, that they may be moved thereby to allow what they think fit.</p>
+            <p>All Perſons who have already Subſcribed, and ſuch as ſhall pleaſe to give any preſent Sum, or An<g ref="char:EOLhyphen"/>nual Benefaction, are intreated to pay the ſame to the preſent Treaſurers,
+<list>
+                  <item>
+                     <hi>Nicholas Beeby</hi> Wine-Cooper, in <hi>Crutched-Friers, London.</hi>
+                  </item>
+                  <item>
+                     <hi>Francis Levet</hi> Merchant, in <hi>Aldermanbury, London.</hi>
+                  </item>
+                  <item>
+                     <hi>Edward Fuller</hi> Seeds-man, in the <hi>Strand,</hi> near <hi>Somerſet-houſe.</hi>
+                  </item>
+               </list> Or either of them, or the ſucceeding Treaſurers, or to any Perſon deputed under the Hand and Seal of any of them.</p>
+         </div>
+         <div type="abstract_of_charter">
+            <pb n="33" facs="tcp:100689:19"/>
+            <head>An <hi>Abſtract</hi> of the CHARTER granted by His late Majeſty King <hi>CARLES II.</hi> (of ever Bleſ<g ref="char:EOLhyphen"/>ſed Memory) for erecting a <hi>Corporation</hi> for Relief of Poor Widows and Children of <hi>Clergy-men:</hi> Da<g ref="char:EOLhyphen"/>ted <hi>July</hi> 1. 1678.</head>
+            <p>HIS ſaid late Majeſty having taken notice, That di<g ref="char:EOLhyphen"/>vers Charitable Perſons had appear'd very forward in Contributing to the Relief of ſuch of the Widows and Children of <hi>Loyal</hi> and <hi>Orthodox Clergy-men</hi> as were Poor, and of the good Effect the ſame had; and taking into His Princely Conſideration, the Great Sufferings of many of the Clergy in <hi>England</hi> for their Loyalty; was graci<g ref="char:EOLhyphen"/>ouſly pleas'd by His CHARTER, under the Great Seal of <hi>England,</hi> to Ordain, Conſtitute, and Grant, That the Perſons therein nam'd, and their Succeſſors, (to be Elected as is therein expreſs'd) <hi>Be one Body Poli<g ref="char:EOLhyphen"/>tick and Corporate, by the Name of, The Governors of the Charity for Relief of Poor Widows and Children of Clergy-men:</hi> And that by the ſame Name they ſhould have perpetual Succeſſion, and be capable to Purchaſe, Have, or Take Mannors, Lands, and Hereditaments, <hi>&amp;c.</hi> not exceeding the Yearly Value of Two thouſand Pounds, and all manner of Gods and Chattels, and to diſpoſe thereof: And by that Name to Plead and to be Implead<g ref="char:EOLhyphen"/>ed in all Actions, <hi>&amp;c.</hi> And to Act all other Matters and Things, as fully as any other Body Politick in this Realm can do: And that the ſaid Governours ſhould have one Common Seal.</p>
+            <p>And His ſaid late Majeſty did further Grant to the ſaid Governors, That there ſhould be a Preſident, a Vice-Preſident, Three Treaſurers, and Forty two Aſſiſtants, Members of the ſaid Corporation, and that they, or any Five of them, (whereof the Preſident, Vice-Preſident, or one of the Treaſurers to be One) ſhould be called <hi>The
+<pb n="34" facs="tcp:100689:20"/> Court of Aſſiſtants</hi> of the ſaid Corporation, who ſhould have the Management of all the Affairs of the ſaid Corporation, and ſhould make Laws and Ordinances for the good Go<g ref="char:EOLhyphen"/>vernment thereof, as well in matters concerning the ſaid Corporation, as in Electing of Officers, and Management of their Revenues; and Impoſe Penalties on Offenders againſt the ſaid Laws, and recover the ſame to the Uſe of the ſaid Corporation.</p>
+            <p>And therein it is appointed, That the Perſons thereby Conſtituted, to be the firſt Preſident, Vice-Preſident, Trea<g ref="char:EOLhyphen"/>ſurers and firſt Aſſiſtants, ſhould continue in their reſpe<g ref="char:EOLhyphen"/>ctive Places until the Second Thurſday in <hi>November</hi> 1679. And from thenceforth, until there ſhould be a new Choice made of Perſons to ſucceed them.</p>
+            <p>And that on every Second Thurſday in <hi>November</hi> for ever (or oftner if there be occaſion) there ſhould be a Ge<g ref="char:EOLhyphen"/>neral Aſſembly of the ſaid Governors: And the major part of the Members then preſent, might Chuſe a Preſident, Vice-Preſident, Three Treaſurers, and Forty two Aſ<g ref="char:EOLhyphen"/>ſiſtants, who ſhould continue for the Year following; and that in caſe of the Death of any of the ſaid Officers with<g ref="char:EOLhyphen"/>in the Year, others might be choſen at a General Aſſembly into their Places.</p>
+            <p>And that ſuch General Aſſembly might Elect ſuch other Perſon or Perſons to be Members and Governors of the ſaid Corporation, as they, or the greater part of them ſhould think fit.</p>
+            <p>
+               <hi>Provided,</hi> That the Preſident, Vice-Preſident, and Trea<g ref="char:EOLhyphen"/>ſurers above-named, ſhould, before they enter upon their Places, take their Oaths before the Lord Chancellor, faith<g ref="char:EOLhyphen"/>fully to execute their reſpective Truſts: And that all other the Members of the ſaid Corporation, before they act as Aſſiſtants, and all ſucceeding Preſidents, Vice-Preſidents, Treaſurers, Aſſiſtants, and all other their inferior Officers, ſhould take the like Oath before the Perſons by the ſaid CHARTER impowered to Adminiſter the ſame.</p>
+            <pb n="35" facs="tcp:100689:20"/>
+            <p>And that the <hi>Lord Arch-biſhop of Canterbury, Lord High Chancellor of England, Lord Arch-biſhop of York, or Lord Keeper of the Great Seal of England, Lord High Trea<g ref="char:EOLhyphen"/>ſurer, Lord Biſhop of London, Lord Almoner, and the Lord Mayor of London</hi> for the time being, ſhould be Viſitors of the ſaid Corporation, and ſettle all Differences about the Government thereof, and touching the Diſpoſition of their Revenues.</p>
+            <p>The better to promote this Pious Work, it was thought fit hereby to Publiſh this Great Favour of His late Ma<g ref="char:EOLhyphen"/>jeſty, and to ſet down the Forms of Subſcriptions; and alſo how any Legacy in Money, or Houſes and Land, may be given by Will to the ſaid Corporation.</p>
+            <floatingText xml:lang="eng" type="form">
+               <body>
+                  <p>I <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> of <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> do promiſe to pay to the Go<g ref="char:EOLhyphen"/>vernors of the Charity, for Relief of Poor Widows and Children of Clergy-men, the Sum of <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> Sterling, on or before the <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> Witneſs my Hand.</p>
+               </body>
+            </floatingText>
+            <floatingText xml:lang="eng" type="form">
+               <body>
+                  <p>I <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> of <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> do promiſe to pay to the Go<g ref="char:EOLhyphen"/>vernor of the Charity, for Relief of Poor Widows and Children of Clergy-men, the Sum of <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> Sterling, at the two uſual Feaſt-Days of the <hi>Anunciation</hi> of the Bleſſed Virgin <hi>Ma<g ref="char:EOLhyphen"/>ry,</hi> and St. <hi>Michael</hi> the Arch-angel, by equal Portions during <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> The Firſt Payment to be made at the next of the Feaſt Days above-mentioned, that ſhall happen after the Date hereof. <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> Witneſs my Hand.</p>
+               </body>
+            </floatingText>
+            <p>This may be Inſerted among LEGACIES in a WILL.</p>
+            <floatingText xml:lang="eng" type="form">
+               <body>
+                  <p>
+                     <hi>ITem,</hi> I Give and Bequeath unto the Governors of the Charity, for Relief of Poor Widows and Children of Clergy-men, the Sum of <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> Pounds, to be paid to one of the Treaſurers.</p>
+               </body>
+            </floatingText>
+            <pb n="36" facs="tcp:100689:21"/>
+            <floatingText xml:lang="eng" type="form">
+               <body>
+                  <head>For Deviſing HOUSES or LANDS.</head>
+                  <p>
+                     <hi>ITem,</hi> I Give and Deviſe unto the Governors of the Charity, for Relief of Poor Widows and Children of Clergy-men, and their Succeſſors for ever, all that my Meſſuage and Lands <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan> Situate and being in <expan>
+                        <am>
+                           <g ref="char:leftblank"/>
+                        </am>
+                        <ex>left blank</ex>
+                     </expan>
+                  </p>
+               </body>
+            </floatingText>
+            <p>All Perſons who have Collected any Money for the ſaid Corporation, are deſired to pay the ſame to the aforeſaid Treaſurers, or one of them, or to give an Account there<g ref="char:EOLhyphen"/>of to Mr. <hi>Thomas Tyllot,</hi> the Regiſter of the Corporation, at <hi>Doctors-Commons, London;</hi> to whom all Perſons who ſhall pleaſe to promote this Charity; or have any thing to com<g ref="char:EOLhyphen"/>municate concerning the ſame, may direct Letters as oc<g ref="char:EOLhyphen"/>caſion ſhall require.</p>
+         </div>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>THE Chriſtians Inheritance. A Sermon at the Fu<g ref="char:EOLhyphen"/>neral of the Reverend <hi>Gabriel Towerſon</hi> D.D. late Re<g ref="char:EOLhyphen"/>ctor of St. <hi>Andrew Underſhaft,</hi> and of <hi>Welwin</hi> in <hi>Hartford<g ref="char:EOLhyphen"/>ſheir;</hi> Preached at <hi>Welwin, October</hi> 21. 1697. By <hi>George Stanhope,</hi> D.D. Chaplain in Ordinary to his Majeſty.</p>
+            <p>Printed for <hi>M. Gillyflower, H. Bonwick, R. Sare,</hi> and <hi>M. Wotton.</hi>
+            </p>
+            <pb facs="tcp:100689:21"/>
+         </div>
+      </back>
+   </text>
+</TEI>
